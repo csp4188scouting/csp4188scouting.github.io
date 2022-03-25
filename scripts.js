@@ -1,6 +1,6 @@
 function autoScout() {
 
-    for (var j = 1; j <= 63; j++){
+    for (var j = 1; j <= 76; j++){
     document.getElementById(j).style.display = "block";
 }
 const teams = [
